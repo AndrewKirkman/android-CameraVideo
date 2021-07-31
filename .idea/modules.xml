@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-CameraVideo.iml" filepath="$PROJECT_DIR$/android-CameraVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-CameraVideo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-CameraVideo-app.iml" group="android-CameraVideo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/makeuptest-android-CameraVideo.iml" filepath="$PROJECT_DIR$/.idea/modules/makeuptest-android-CameraVideo.iml" group="android-CameraVideo" />
     </modules>
   </component>
 </project>
